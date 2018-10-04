@@ -10,3 +10,5 @@ ADD . /app
 RUN pip install -r requirements.txt
 
 VOLUME /app
+
+EXPOSE 8000
