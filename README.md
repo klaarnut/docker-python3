@@ -11,5 +11,5 @@ docker exec -it docker-python3 bash
 ```
 ## start django
 ```
-docker exec -it docker-python3 bash -c "cd /app; python manage.py runserver 0.0.0.0:8000
+docker exec -it docker-python3 bash -c "cd /app; python manage.py runserver 0.0.0.0:8000"
 ```
