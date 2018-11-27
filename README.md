@@ -3,7 +3,7 @@ Python 3.7 Container with Common Packages
 
 ## docker run
 ```
-docker run --name docker-python3 -d --restart=always -v $PWD:/app:z -t amarinboonkirt/docker-python3
+docker run --name docker-python3 -d --restart=always -v $PWD:/app:z -t arnut/docker-python3
 ```
 ## ssh to container
 ```
